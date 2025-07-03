@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshmr&show_icons=true&locale=en" alt="nileshmr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshmr&" alt="nileshmr" /></p>
+<img align="right" alt="coding" width="400" img src="https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif">
+<img align="left" alt="coding" width="400" img src="https://mir-s3-cdn-cf.behance.net/project_modules/source/3bab9728898167.55d79cd0b855f.gif">
